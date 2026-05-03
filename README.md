@@ -1,2 +1,11 @@
-# smart-task-automation
-A simple Python CLI Task Manager app for adding and viewing task 
+# Smart Task Automation
+
+Simple Python CLI Task Manager project.
+
+## Features:
+- Add tasks
+- View tasks
+- Simple menu system
+
+## Run:
+python main.py
